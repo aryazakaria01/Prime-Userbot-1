@@ -15,7 +15,7 @@ Userbot ini di buat berdasarkan library [Pyrogram](https://github.com/pyrogram/p
 
 <h4>Click the button below to deploy Prime on Heroku!</h4>
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BukanDev/Prime-Userbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LokpirezFihaji/Prime-Userbot)
 </details>
 
   
